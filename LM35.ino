@@ -1,11 +1,3 @@
-/*
- * Created by ArduinoGetStarted.com
- *
- * This example code is in the public domain
- *
- * Tutorial page: https://arduinogetstarted.com/tutorials/arduino-lm35-temperature-sensor
- */
-
 
 const int kPinButton1 = 2;
 const int kPinLed = 9;
